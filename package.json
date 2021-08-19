@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "name": "first",
+  "version": "1.0.0",
+  "main": "First.js",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "start": "node index.js", 
+    "dev": "nodemon index.js"
+  },
+  "author": "Sasha <godsdie@mail.ru>",
+  "license": "ISC",
+  "description": ""
+}
